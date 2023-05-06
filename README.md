@@ -1,6 +1,6 @@
 # Loader-CSS
 
-![GitHub watchers](https://img.shields.io/github/watchers/dfleper/Loader-CSS?color=blue&label=Vistas&logoColor=blue&style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/dfleper/Loader-CSS?logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/Loader-CSS?color=blue&label=%C3%BAltimo%20commit&logo=github&logoColor=white)
 
 Animated Loader in CSS 
